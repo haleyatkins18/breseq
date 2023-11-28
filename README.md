@@ -14,3 +14,8 @@ mamba install breseq
  
 #run breseq, this example includes the sample data you downloaded from above. 
 breseq -r NC_012967.gbk SRR030257_1.fastq SRR030257_2.fastq
+
+#in general, the command looks something like this:
+breseq -r reference1.gbk [-r reference2.gbk ...] reads1.fastq [reads2.fastq, reads3.fastq...]
+
+#if you have multiple reference genomes, remember to put -r before each one
