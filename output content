@@ -5,6 +5,8 @@ output/summary.html
 output/log.txt
 
 output/index.html is the file you need to open in your browser
+command:
+open output/index.html
 
 General outline:
 Evidence: shows evidence that supports the specific prediction
