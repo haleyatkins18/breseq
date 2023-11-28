@@ -5,3 +5,13 @@ output/summary.html
 output/log.txt
 
 output/index.html is the file you need to open in your browser
+
+General outline:
+Evidence: shows evidence that supports the specific prediction
+Seq ID: not shown if there’s only one reference sequence, identifies the reference sequence with the mutation
+Position: mutation position in reference sequence 
+Mutation: describes mutation
+Annotation: describes mutation more in depth
+Gene: genes affected by mutation
+Description: describes the genes affected by the mutation
+
