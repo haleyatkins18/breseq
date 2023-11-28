@@ -38,6 +38,8 @@ do not predict new sequence junctions
 -p --predict-polymorphisms
 predict polymorphic (mixed) mutations
 
+Additional commands to interpret the output files
+
 Command: bam2aln
 breseq BAM2ALN [-b reference.bam -f reference.fasta -o alignment.html -n 200] region1 [region2 region3 ...]
 display reads aligned to the specified region or regions
